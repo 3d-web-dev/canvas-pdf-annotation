@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink" width="26.666666666666664" height="26.666666666666664" class="stamp" fill-opacity="active" stroke-opacity="active">
+	<g transform="scale(0.6666666666666666)">
+		<g>
+			<circle stroke-width="2" stroke="#FFFFFF" r="18" cx="20" cy="20" fill="none"></circle>
+		</g>
+		<text x="20" y="20" dy="6px" font-size="18px" text-anchor="middle" fill="#FFFFFF" style="font-weight: 600;">DQ</text>
+	</g>
+</svg>

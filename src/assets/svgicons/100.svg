@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink" width="26.666666666666664" height="26.666666666666664" class="stamp" fill-opacity="active" stroke-opacity="active">
+	<g transform="scale(0.6666666666666666)">
+		<g><circle stroke-width="2" stroke="currentColor" r="18" cx="20" cy="20" fill="none"></circle></g>
+		<svg height="32" width="32" viewBox="0 0 24 24" aria-hidden="true" x="4" y="4" color="currentColor">
+			<path d="M20,6.7471 C20,6.9371 19.92,7.1381 19.78,7.2771 L10.275,16.7821 C9.985,17.0721 9.505,17.0721 9.215,16.7821 L4.717,12.2801 C4.428,11.9901 4.428,11.5101 4.717,11.2201 C4.857,11.0801 5.058,11.0001 5.248,11.0001 C5.437,11.0001 5.638,11.0801 5.777,11.2201 L9.745,15.1921 L18.72,6.2181 C19.01,5.9281 19.49,5.9281 19.78,6.2181 C19.92,6.3571 20,6.5581 20,6.7471" fill="currentColor"></path>
+		</svg>
+	</g>
+</svg>
