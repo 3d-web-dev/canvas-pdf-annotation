@@ -1,6 +1,6 @@
-# Plan Grid
-Plan grid website that enables users to draw various types of polygons, texts, measurement tools in different colors and many more functionalities.<br />
-Developed in React.js.<br />
+# PDF Canvas Annotation Tool
+PDF Annotation Tool that enables users to draw various types of polygons, texts, measurement tools in different colors and many more functionalities.<br />
+Developed in React.js & Canvas 2D contextbr />
 
 
 <!-- Working with google map<br />
